@@ -21,7 +21,7 @@
 function ajax() {
 
 
-    const url = "https://front-end-by-rimantas.github.io/24-grupe-ajax/api/rikis.json";
+    const url = "https://meskiniukas.github.io/12-ajax_meskiniukas/api/rikis.json";
     
     const xhr = new XMLHttpRequest();
     xhr.open("POST", url);
